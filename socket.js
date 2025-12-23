@@ -16,7 +16,7 @@ let connectedUsers = []
 //         socket_id,
 //         role,
 //         name,
-//         status,
+//         status,..
 //         date
 // }
 
